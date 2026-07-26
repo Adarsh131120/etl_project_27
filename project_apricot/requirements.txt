@@ -1,0 +1,9 @@
+pyspark>=3.5.0
+pandas<3.0.0
+pyarrow>=18.0.0
+requests>=2.31.0
+streamlit>=1.35.0
+plotly>=5.20.0
+
+# Optional, only needed if you switch the Load step from SQLite to real SQL Server:
+# pyodbc>=5.0.0
